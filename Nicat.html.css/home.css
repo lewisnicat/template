@@ -1,0 +1,217 @@
+.body{
+	background-color: white;
+}
+.neuron{
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	font-family: "Merriweather",serif;
+	font-size: 30px;
+	font-style: bold;
+}
+.home{
+	text-align: right;
+	margin-top: 0px;
+	margin-left: 70px;
+	margin-right: 50px;
+	margin-bottom: 40px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: none;
+	color:#777777;
+
+}
+.about{
+	text-align: right;
+	margin-top: 0px;
+	margin-left: 70px;
+	margin-right: 20px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: none;
+}
+.gallery{
+	text-align: left;
+	margin-top: 0px;
+	margin-left: 50px;
+	margin-right: 20px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: none;
+}
+.contact{
+	text-align: left;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 20px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: none;
+}
+.block1{
+	position: absolute;
+	text-decoration: none;
+	background-size: cover;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 40px;
+	left: 0; right: 0; bottom: 80px;top: 80px;
+}
+
+.ad{
+	text-align: center;
+	margin-top: 130px;
+	font-family: bold;
+	font-family: "Merriweather",serif;
+	font-size: 80px;
+	letter-spacing: 0.5px;
+	color: white;
+}
+.ad1{
+	text-align: center;
+	margin-top: 10px;
+	font-family: bold;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	letter-spacing: 0.5px;
+	color: rgb(212, 192, 44);
+}
+.div1{
+	padding: 20px 150px 0px 180px;
+}
+.div3{
+	padding-left: 180px;
+}
+.index1{
+	font-size: 20px;
+	padding-right: 100px;
+	color: #777777;
+}
+
+.d3{
+	padding: 0px 650px 0px 180px;
+	font-family:'Fjalla One', sans-serif;
+	font-size: 30px;
+	width: 820px;
+}
+.d3:hover{
+	color: #BFBA55;
+}
+
+.img{
+	border-radius: 100px;
+	border: 2px round;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+.d6{
+	padding-left:10px; 
+	padding-right:900px;
+	
+}
+a:link {
+  color:#777777;
+}
+
+
+a:visited {
+  color:#777777;
+}
+
+
+a:hover {
+  color:#BFBA55;
+}
+
+
+a:active {
+  color: yellow;
+}
+
+.button{
+	border-radius:100px;
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	color:grey;
+}
+.button:hover{
+	background-color:#BFBA55;
+}
+.div2{
+padding: 20px 150px 0px 10px;
+}
+.d2{
+	padding: 0px 650px 0px 10px;
+	font-family:'Fjalla One', sans-serif;
+	font-size: 30px;
+	width: 820px;
+}
+.d2:hover{
+	color: #BFBA55;
+}
+.div4{
+	padding-left: 10px;
+}
+.img1{
+	border-radius: 100px;
+	border: 2px round;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+.d4{
+	font-size: 20px;
+	padding-right: 100px;
+	color: #777777;
+}
+.button1{
+	border-radius:100px;
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	color:grey;
+}
+.button1:hover{
+	background-color:#BFBA55;
+}
+.div5{
+	padding: 0px 0px 0px 10px;
+	font-family:'Fjalla One', sans-serif;
+	font-size: 30px;
+	width: 820px;
+}
+.div5:hover{
+	color: #BFBA55;
+}
+
+
+.img2{
+	border-radius: 100px;
+	border: 2px round;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+}
+
+.index3{
+	font-size: 20px;
+	padding-right: 100px;
+	color: #777777;
+}
+.button2{
+	border-radius:100px;
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	color:grey;
+}
+.button2:hover{
+	background-color:#BFBA55;
+}
+
